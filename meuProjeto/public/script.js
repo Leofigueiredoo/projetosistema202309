@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const userTable = document.getElementById('userTable');
+    const userTable = document.getElementById('MeuBancoDeDados');
 
     // Função para buscar usuários
     function fetchUsers() {
